@@ -4,7 +4,7 @@
 This project was developed during my volunteering at Komtek Örebro. The main goal was to create realistic mouth movement to inspire kids and teenagers to explore STEM. After being challenged by my mentor Helena to build the mouth mechanism, I also decided to add eye movement based on tracking motion from a webcam’s live feed.
 
 The eye mechanism was inspired by Will Cogley, and the design used here is based on the same system you can find on his website:  
-https://willcogley.notion.site/
+[https://willcogley.notion.site/](https://willcogley.notion.site/)
 
 ## Code
 This repository contains three main files used to control an animatronic face composed of moving eyes and a mouth. It includes 1 Arduino file and 2 Python files that use different approaches for computer vision, while using the same approach for mouth movement.
